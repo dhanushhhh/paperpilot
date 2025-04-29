@@ -104,10 +104,10 @@ streamlit run app.py
 ## Screenshots & Demo Video
 
 ### Dashboard
-![Dashboard](assets/dashboard.png)
+![Dashboard](home.png)
 
 ### Timer Running
-![Timer Running](assets/timer_running.png)
+![Timer Running](timer.png)
 
 ### AI Celebration
 ![Celebrate](summary.png)
