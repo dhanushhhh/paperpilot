@@ -6,6 +6,8 @@
 ---
 
 ## Overview
+Hi, I’m a paperboy delivering newspapers every morning -  
+and **PaperPilot** is the tool I built to make my route smarter, faster, and more motivating.  
 
 This is a smart, real-time app built with **Streamlit** to:
 
@@ -99,15 +101,21 @@ streamlit run app.py
 
 ---
 
-## Screenshots
+##  Screenshots & Demo Video
 
-(Upload screenshots and update links later!)
-
-| Dashboard | Timer Running | Celebrate |
-|:---|:---|:---|
-| ![Dashboard Screenshot](link) | ![Timer Screenshot](link) | ![Celebration Screenshot](link) |
+| Dashboard | Timer Running | AI Celebration |
+|:---:|:---:|:---:|
+| ![Dashboard](assets/dashboard.png) | ![Timer](assets/timer_running.png) | ![Celebrate](assets/celebration.png) |
 
 ---
+
+### Live Demo
+
+[Watch Demo](https://drive.google.com/file/d/1yApheYAQ8gPbcOcn34s5O-QpXo0jkSJq/view?usp=sharing)
+
+---
+
+
 
 ## License
 
@@ -117,6 +125,6 @@ This project is licensed under the **MIT License** — feel free to use and impr
 
 ## Contact
 
-- GitHub: [your-profile-link]
+- GitHub: [[Dhanush](https://github.com/dhanushhhh)]
 
 ---
